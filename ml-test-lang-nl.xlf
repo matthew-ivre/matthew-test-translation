@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="nl">
+    <body>
+      <trans-unit id="tst-repo-walk"><source>walk</source>
+		<target>wandelen</target>
+      </trans-unit>
+      <trans-unit id="tst-repo-abnormal"><source>abnormal</source>
+		<target>abnormaal</target>
+      </trans-unit>
+      <trans-unit id="tst-repo-parameter"><source>parameter</source>
+		<target>parameter</target>
+      </trans-unit>
+      <trans-unit id="tst-repo-terminal"><source>terminal</source>
+		<target>terminal</target>
+      </trans-unit>
+      <trans-unit id="tst-repo-delay"><source>delay</source>
+		<target>vertraging</target>
+      </trans-unit>
+      <trans-unit id="tst-repo-interest"><source>interest</source>
+		<target>interesse</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
